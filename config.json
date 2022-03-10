@@ -1,0 +1,14 @@
+{
+  "PREFIX": "!",
+  "OWNER_ID": "593536295507329049",
+  "ownerid": "593536295507329049",
+  "CLIENT_ID": "919159349237121024",
+  "GUILD_ID": "917854647505518652",
+  "NODES": [
+    {
+      "host": "lava.link",
+      "port": 80,
+      "password": "changeyourpassword"
+    }
+  ]
+}
